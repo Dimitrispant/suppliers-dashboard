@@ -1,1 +1,1 @@
-# suppliers-dashboard
+# Suppliers Dashboard
